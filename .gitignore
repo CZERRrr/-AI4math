@@ -1,0 +1,22 @@
+
+# Experiment data, checkpoints and local environments
+**/data/
+**/results/
+**/.venv*/
+**/venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+.env
+.env.*
+*.log
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.npz
+*.npy
+.DS_Store
+._*
+*.backup*
+*.before_*
+*.tmp
